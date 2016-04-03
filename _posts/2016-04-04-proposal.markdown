@@ -1,0 +1,17 @@
+---
+title: Proposal
+layout: blog_post
+date: 2016-04-04
+img: proposal.jpg
+thumbnail: proposal-thumbnail.jpg
+alt: image-alt
+category: update
+description: Our proposed project.
+crumbs: 
+- text: Home
+  url: /
+- text: Blog
+  url: /blog
+---
+
+Our group's project idea is to create an interface/game that allows players to lay tracks (railway tracks, rollercoaster tracks, highway tracks, etc) around a room and simulate both bulding and navigating it. There are many extensions we could implement, including some ideas we have around racing/multiplayer, extra track mechanisms (portals, switching, powered rail), graphical details, and more.

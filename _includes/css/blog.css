@@ -1,0 +1,19 @@
+.post-list li {
+	list-style: none;
+	margin-bottom: 40px;
+}
+
+.post-list .post-meta {
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.post-list h2 {
+	margin: 8px 0px;
+}
+
+.blog-post-content {
+	font-weight: 300;
+	max-width: 800px;
+	margin: 20px auto;
+}

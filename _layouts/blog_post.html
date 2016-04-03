@@ -1,0 +1,17 @@
+---
+layout: page
+---
+
+<section id="blog_post" class="bg-light-gray">
+	<div class="container">
+		<div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">{{ page.title }}</h2>
+                <h3 class="blog-post-date text-muted">{{ page.date | date: "%B %-d, %Y" }}</h3>
+            </div>
+        </div>
+        <div class="blog-post-content">
+			{{ content }}
+		</div>
+	</div>
+</section>
