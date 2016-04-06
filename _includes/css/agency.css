@@ -343,9 +343,40 @@ section h3.section-subheading {
     font-weight: 400;
 }
 
+#blog_post {
+    padding: 0px;
+}
+
+#blog_post .container {
+    padding: 60px 0px;
+}
+
+.about-description {
+    font-size: 16px;
+}
+
+.cover-img {
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+}
+
+.cover-img img {
+    width: 100%;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+@media(min-width:992px) {
+    .cover-img {
+        height: 600px;
+    }
+}
+
 @media(min-width:768px) {
-    section {
-        padding: 150px 0;
+    .cover-img {
+        height: 400px;
     }
 }
 

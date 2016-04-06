@@ -15,18 +15,14 @@ color:
 # Team names, titles and social links
 people:
 - name: Jenny Kang
-  pic: 1
+  pic: 1.jpg
   position: Software Developer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/jsykang
 
 - name: Sonja Khan
-  pic: 2
+  pic: 2.png
   position: Software Developer
   social:
     - title: github
@@ -37,18 +33,18 @@ people:
       url: https://twitter.com/sonjathewrecker
 
 - name: Riley Porter
-  pic: 3
+  pic: 3.png
   position: Software Developer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/riley-porter-b6444b62
+    - title: github
+      url: https://github.com/rileyporter
+    - title: instagram
+      url: https://www.instagram.com/ryporter/
 
 - name: Nick Reiter
-  pic: 4
+  pic: 4.png
   position: Software Developer
   social:
     - title: twitter
