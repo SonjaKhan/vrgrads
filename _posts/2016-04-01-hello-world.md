@@ -6,7 +6,7 @@ img: hello.jpg
 thumbnail: hello-thumbnail.jpg
 alt: image-alt
 category: update
-description: Test post.
+description: First post!
 crumbs: 
 - text: Home
   url: /
