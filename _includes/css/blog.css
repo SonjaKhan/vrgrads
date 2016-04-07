@@ -16,4 +16,9 @@
 	font-weight: 300;
 	max-width: 800px;
 	margin: 20px auto;
+	padding: 0px 40px;
+}
+
+.blog-post-content img {
+	margin: 20px 0px;
 }

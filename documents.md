@@ -20,7 +20,9 @@ title: Documents
 				<h2>
 					<a class="post-link" href="{{ "/documents/proposal_presentation.pdf" | prepend: site.baseurl }}">Project Proposal Presentation</a>
 				</h2>
-				<p>{{ post.description }}</p>
+				<h2>
+					<a class="post-link" href="{{ "/documents/proposal_document.pdf" | prepend: site.baseurl }}">Project Proposal Document</a>
+				</h2>
 			</li>
 		</ul>
 	</div>
