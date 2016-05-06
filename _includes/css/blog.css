@@ -13,6 +13,7 @@
 }
 
 .blog-post-content {
+	font-size: 14px;
 	font-weight: 300;
 	max-width: 800px;
 	margin: 20px auto;
