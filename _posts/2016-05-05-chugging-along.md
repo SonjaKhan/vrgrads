@@ -81,3 +81,12 @@ Next week I plan to work on:
 1. Hooking up the code for saving and loading with the hololens UI that Nick built, so that a player can save or load a track via a menu button. This includes figuring out where to store the file on the hololens device.
 2. Flesh out a user’s build-save-load workflow. This might include allowing multiple track files per user for different build sessions, and auto-saving as a user builds.
 3. Exploring sharing data between hololens devices. Ideally we’d like to have a collaborative building experience be an option. To start, we’ll want to allow one person to build while others watch. This will also be great to have for the end-of-quarter demo that we learned about today.
+
+
+###Riley:
+
+TL;DR: Worked on animation and worked on integrating the animation with our prototype demo.
+
+This week I worked mostly on getting the animation up and running for our demo.  First, I worked on incorporating pieces from the MegaShapes asset to reuse some of their preset objects.  I explored how they were doing animation for one of their demos, including having a train with multiple pieces that would each follow each other.  I converted some of their code into new files which would make a train follow a MegaSpline.   I also worked on setting up a new prefab that we could use for the demo of the train.  The prefab is made up of pieces from the MegaShapes assets, but after a lot of exploration I figured out that I had to convert the pieces into actual GameObjects, so that they would work with our prototype.
+
+I then worked on integrating the animation that I had working into our demo prototype.  This included figuring out how to make the animation start based on toggling in and out of the play/build modes of our project.  Also, I had to work with the TrackBuilder that Sonja wrote in order to get the information necessary for the spline.  I had a version of this semi-working, but it felt pretty brittle and forced into the specifics of our prototype.  I worked with Sonja and discussed a better structure for the animation and then implemented that architecture instead.  Hopefully, this will be more extensible for different prefabs for different vehicles, and it will allow different vehicles to have different styles of animation (the force of an engine, just obey physics like a marble, etc).
