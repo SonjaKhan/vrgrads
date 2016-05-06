@@ -2,8 +2,8 @@
 title: Chugging Along
 layout: blog_post
 date: 2016-05-05
-img: pieces.png
-thumbnail: pieces-thumbnail.png
+img: chugging.png
+thumbnail: chugging-thumbnail.png
 alt: image-alt
 category: update
 description: Individual progress 
