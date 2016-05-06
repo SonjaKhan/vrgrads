@@ -83,7 +83,7 @@ Next week I plan to work on:
 3. Exploring sharing data between hololens devices. Ideally we’d like to have a collaborative building experience be an option. To start, we’ll want to allow one person to build while others watch. This will also be great to have for the end-of-quarter demo that we learned about today.
 
 
-###Riley:
+### Riley:
 
 TL;DR: Worked on animation and worked on integrating the animation with our prototype demo.
 
