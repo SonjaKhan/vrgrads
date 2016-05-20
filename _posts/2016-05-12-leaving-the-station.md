@@ -14,7 +14,7 @@ crumbs:
   url: /blog
 ---
 
-## [Demo Plan](/documents/demo_plan.pdf)
+## [Demo Plan](/vrgrads/documents/demo_plan.pdf)
 
 ## What we accomplished 
 
