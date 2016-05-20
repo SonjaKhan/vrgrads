@@ -26,6 +26,9 @@ title: Documents
 				<h2>
 					<a class="post-link" href="{{ "/documents/requirements_document_v2.pdf" | prepend: site.baseurl }}">Product Requirements Document</a>
 				</h2>
+				<h2>
+					<a class="post-link" href="{{ "/documents/demo_plan.pdf" | prepend: site.baseurl }}">Demo Plan</a>
+				</h2>
 			</li>
 		</ul>
 	</div>
