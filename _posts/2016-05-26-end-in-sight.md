@@ -14,7 +14,7 @@ crumbs:
   url: /blog
 ---
 
-## [Last Week's Blog](/update/2016/05/19/leaving-the-station/)
+## [Last Week's Blog](/vrgrads/update/2016/05/19/leaving-the-station/)
 
 ## What we accomplished 
 
