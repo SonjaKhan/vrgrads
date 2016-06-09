@@ -14,7 +14,7 @@ crumbs:
   url: /blog
 ---
 
-<div class="col-lg-8 col-md-8 col-sm-8">
+<div class="col-lg-12 col-md-12 col-sm-12">
   <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/eD8_-_cNcZE" allowfullscreen></iframe>
   </div>
