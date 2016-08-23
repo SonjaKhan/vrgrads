@@ -277,7 +277,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(img/header-bg.jpg);
+    /*background-image: url(img/header-bg.jpg);*/
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -287,7 +287,7 @@ header {
 }
 
 header .intro-text {
-    padding-top: 100px;
+    padding-top: 72px;
     padding-bottom: 50px;
 }
 
@@ -300,10 +300,34 @@ header .intro-text .intro-heading {
     line-height: 50px;
 }
 
+header .logo {
+    padding-bottom: 50px;
+}
+
+header .intro-video {
+    margin-bottom: 50px;
+}
+
+header .available {
+    color: black;
+    font-size: 32px;
+    padding-top: 12px;
+}
+
+header .store-link {
+    display: block;
+    padding: 40px 0px;
+}
+
+header .store-link img {
+    height: auto;
+    width: 200px;
+}
+
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
-        padding-bottom: 200px;
+        padding-top: 72px;
+        padding-bottom: 72px;
     }
 
     header .intro-text .intro-lead-in {
