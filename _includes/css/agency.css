@@ -302,6 +302,15 @@ header .intro-text .intro-heading {
 
 header .logo {
     padding-bottom: 50px;
+    height: auto;
+    width: 320px;
+}
+
+@media(min-width:768px) {
+    header .logo {
+        height: auto;
+        width: auto;
+    }
 }
 
 header .intro-video {
